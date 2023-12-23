@@ -1,3 +1,7 @@
+<p align="right" >
+  <strong><a href="http://forum.mx-bikes.com/index.php?topic=7247.0">Hilo de la traducción en el foro de MX Bikes</a></strong>
+</p>
+
 ## Instalación
 
 * [Descargamos la ultima versión de la traducción disponible haciendo clic en este texto](https://github.com/Deci8BelioS/MX-Bikes-Spanish/releases)
