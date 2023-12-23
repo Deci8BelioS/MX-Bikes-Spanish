@@ -1,0 +1,1352 @@
+Testing
+Prueba
+Single_race
+Carrera
+Exit
+Salir
+Back
+Volver
+settings
+Configuracion
+gfx_tab
+Graficos
+input_tab
+Entrada
+misc_tab
+Miscelaneo
+profiles
+Perfiles
+Bestlaps
+Mejores vueltas
+Viewreplays
+Reproducciones
+yes
+Si
+no
+No
+cancel
+Cancelar
+track_info
+Info de pista
+Done
+Hecho
+exit_confirm
+Salir?
+options_confirm
+Descartar cambios?
+Forcefeedback
+Vibracion
+volume_text
+Vol. Principal:
+Lean
+Direccion
+Throttle
+Acelerador
+Brake
+Freno dela/comb
+Join
+Unirse
+Start
+Iniciar
+Refresh_sessions
+Actualizar
+Shiftup
+Subir marcha
+Shiftdown
+Bajar marcha
+Calibration
+Calibracion
+us_units
+Sistema estadounidense
+metric_units
+Sistema metrico
+date1
+MM/DD/YYYY
+date2
+DD/MM/YYYY
+Units
+Unidades
+dateformat
+Formato de fecha
+laps
+Vueltas
+name
+Nombre:
+delete
+Eliminar
+view
+Ver
+event_info
+Info del evento
+drawdist_text
+Distancia de dibujo:
+replay
+Repeticion
+connecting
+Conectando...
+totrack
+A la pista
+TT_TESTING
+Iniciar una sesion de pruebas
+TT_EXIT
+Cerrar MX Bikes
+results_tab
+Resultados
+cc_fullscreen
+Pantalla completa
+cc_borderless
+Ven. sin bordes
+cc_windowed
+Ventana
+close
+Cerrar
+cc_timeout
+Tiempo de conexion
+cc_wrongpassword
+Contrasena incorrecta
+cc_serverfull
+Servidor completo
+sightinglap
+Vuelta de reconocimiento
+new
+Nuevo
+chat
+Chat
+changeview
+Cambiar vista
+clutch
+Embrague
+Export
+Exportar
+ok
+Aceptar
+practicetext
+Duracion de practica:
+qualifytext
+Duracion de clasificacion:
+warmuptext
+Duracion de calentamiento:
+racetext
+Duracion de carrera:
+sessiontext
+Nombre:
+passwordtext
+Contrasena:
+brakehelp
+Ayuda de frenado
+tractionhelp
+Ayuda de traccion
+autoshift
+Cambio automatico
+ffstrength
+Fuerza:
+author
+Autor:
+realisticweather
+Clima realista:
+realistic_weather
+Realista
+temperature
+Temperatura:
+wind_direction
+Direccion viento:
+wind_speed
+Velocidad viento:
+order_name
+Nombre de archivo
+order_track
+Pista
+order_length
+Longitud
+order_date
+Fecha
+chat_button
+Chat
+autochat
+Autochat
+save
+Guardar
+general
+General
+drivetrain
+Transmision
+suspensions
+Suspensiones
+fuel
+Combustible:
+copyfrom
+Copiar
+aniso_text
+Anisotropico:
+Conditions
+Condiciones:
+location
+Ubicacion:
+maxclient
+Max. jugadores:
+track
+Pista:
+onboardview
+Vista a bordo
+mouselook
+Mirar con raton
+resolution
+Resolucion:
+fov
+Campo de vision:
+dynamicshadows
+Sombras dinamicas
+reflections
+Reflejos
+shaders
+Sombras
+corneranticipation
+Anticipacion en curvas
+garage
+Garaje
+speed
+Velocidad:
+saveas
+Guardar como
+modify
+Modificar
+screen
+Pantalla
+Textures
+Texturas
+filtering
+Filtrado:
+lighting
+Iluminacion
+refreshrate
+Tasa de refresco:
+size_texture
+Tamano:
+RearBrake
+Freno trasero
+heading
+Direccion
+lookback
+Mirar atras
+bpp
+Bits:
+models_detail
+Detalle de modelos:
+controls
+Controles
+forcecockpit
+Forzar vista interior
+noaids
+Sin ayudas
+simulation
+Simulacion
+ridingaids
+Ayudas de conduccion
+weather
+Clima
+undo
+Deshacer
+setup_overwrite
+Sobrescribir config?
+setup_defaultsave
+Guardar config predeterminada?
+setup_save
+Guardar cambios?
+setup_delete
+Eliminar configuracion?
+continue
+Continuar
+Audio
+Audio
+detaillevels
+Nivel de Detalle
+returntopit
+Volver a boxer
+quickrace
+Carrera rapida
+raceweekend
+Carrera
+hardcoretext
+Modo Hardcore
+settings_race
+Configuracion
+ui_volume
+Interfaz de usuario:
+track_length
+Longitud de pista:
+track_altitude
+Altitud de pista:
+tyres
+Neumaticos
+advanced_input
+Avanzado
+Rider
+Piloto:
+camera
+Camara:
+position
+Posicion:
+last_lap
+Ultima vuelta:
+best_lap
+Mejor vuelta:
+reset
+Reiniciar
+antialias
+Antialiasing:
+Screenratio
+Rela. de pantalla:
+dryqualify
+Clasificacion en seco:
+dry_race
+Carrera en seco:
+wetsetup
+Clasificacion en lluvia:
+live_replay
+Repeticion en vivo
+laptime
+Tiempo de vuelta
+split1
+Sector 1
+split2
+Sector 2
+split3
+Sector 3
+speedlap
+Velocidad
+name_stand
+Nombre
+bike_stand
+Moto
+time_stand
+Tiempo
+lap_stand
+Vuelta
+gap_stand
+Diferencia
+speed_stand
+Velocidad
+racetime_stand
+Tiempo de carrera
+aero_volume
+Vol. del aire:
+rider_fb_lean
+Inclin. Adel/Atras
+autoriderfblean
+Inclin. auto del piloto adelante/atras
+raisearm
+Levantar brazo
+current_setup
+Actual:
+wetrace_setup
+Carrera en lluvia:
+name_server
+Nombre
+d_server
+D
+p_Server
+P
+track_server
+Pista
+length_server
+Longitud
+h_server
+H
+status_server
+Estado
+ping_server
+Ping
+world
+Internet
+competitors
+Comp.
+lowspeed
+Empujar moto
+testing_exit
+Salir de las pruebas?
+userinterface
+Interfaz de usuario
+skipintro
+Saltar introduccion
+bike_profile
+Moto:
+paint_profile
+Pintura:
+delete_profile
+Eliminar Perfil?
+track_bestlaps
+Pista
+delete_replay
+Eliminar repeticion?
+garage_title
+Garaje
+fuel_garage
+Combustible
+keep_resolution
+Mantener resolucion?
+exit_race
+Salir de la carrera?
+Laptime_bestlaps
+Tiempo de vuelta
+date_bestlaps
+Fecha
+bike_bestlaps
+Moto
+tyretemp_left
+Izq
+tyretemp_middle
+Medio
+tyretemp_right
+Der
+spring_garage
+Resorte:
+preload_garage
+Precarga:
+frontsusp_garage
+Suspension delantera
+rearsusp_garage
+Suspension trasera
+fronttyre_garage
+Delantera:
+reartyre_garage
+Trasera:
+bump_garage
+Compresion:
+rebound_garage
+Extension:
+finalratio_garage
+Rela. de transmision final
+gears_garage
+Marchas
+frontspr_garage
+Granaje delantero:
+rearspr_garage
+Granaje trasero:
+testingsetup_title
+Config de pruebas
+bestlaps_title
+Mejores vueltas
+racesetup_title
+Config de carrera
+hostsetup_title
+Config del anfitrion
+forcecockpit_info
+Forzar vista interior:
+aids_info
+Ayudas:
+replay_overwrite
+Sobrescribir repeticion?
+export_overwrite
+Sobrescribir exportacion?
+deadzone
+Zona Muerta:
+linearity
+Linealidad:
+smooth
+Suavizado
+serverbrowser_title
+Explorador de servidores
+continue_ontrack
+Continuar en pista
+tilt
+Ladeo:
+w_server
+W
+smooth_press
+Sua. presionado:
+smooth_release
+Liberacion suave:
+date3
+AAAA/MM/DD
+pitch
+Inclinacion:
+admin
+Administrador
+others_garage
+Otros garajes
+brakes_garage
+Taller de frenos
+geom_garage
+Geometria
+rakeangle_garage
+Angulo de horquilla:
+swingarm_garage
+Longitud del basculante:
+bike_selection
+Moto
+category
+Categoria:
+category_server
+Cat
+race_number
+Numero de carrera:
+tearoff
+Limpiar gafas
+bikeselection_title
+Seleccionar moto
+language
+Idioma
+enable_ff
+Habilitar
+wingesture
+Gesto de victoria
+complaint
+Queja
+sit
+Sentarse
+direct_sit
+Sentarse directamente
+notes
+Notas
+freelook
+Vista libre
+freetrack
+Pista libre
+disable_chat
+Desactivar chat
+bandwidth
+Ancho de banda:
+profile
+Perfil
+share_setup
+Compartir configuracion
+GG_Profiles
+Elige un idioma y edita/establece un perfil predeterminado para configurar el nombre
+GG_Settings
+Ajusta las configuraciones para que coincidan con el hardware y las preferencias
+GG_calibration
+Todos los perifericos deben calibrarse antes de asignar ejes a los controles
+leanleft
+Inclinar a la izquierda
+leanright
+Inclinar a la derecha
+lookleft
+Mirar a la izquierda
+lookright
+Mirar a la derecha
+cc_banned
+Prohibido
+leanriderbackward
+Inclinar al piloto hacia atras
+leanriderforward
+Inclinar al piloto hacia adelante
+connected
+Conectado...
+syncing
+Cargando...
+eject
+Expulsar
+input2_tab
+Entrada 2
+rider_lr_lean
+Inclin. Izq/Der
+cc_verylow
+Muy Bajo
+cc_low
+Bajo
+cc_medium
+Medio
+cc_high
+Alto
+cc_veryhigh
+Muy Alto
+cc_default
+Predeterminado
+cc_overall
+General
+cc_waiting
+Esperando
+cc_prequalify
+Preclasificacion
+cc_qualify
+Clasificacion
+cc_warmup
+Calentamiento
+cc_race1
+Carrera 1
+cc_race2
+Carrera 2
+CC_wrongcategory
+Categoria incorrecta
+CC_racestarted
+Carrera ya iniciada
+CC_pitlanefull
+Boxes llenos
+cc_startinggrid
+Parrilla de salida
+cc_entries
+Participantes
+cc_analysis
+Analisis
+cc_fastestlap
+Vuelta mas rapida
+cc_practice
+Practica
+cc_classification
+Clasificacion
+cc_penalties
+Penalizaciones
+offence_stand
+Ofensa
+penalty_stand
+Penalizacion
+laps_stand
+Vueltas
+cc_clear
+Despejado
+cc_cloudy
+Nublado
+cc_Rainy
+Lluvioso
+cc_north
+Norte
+cc_northeast
+Noreste
+cc_east
+Este
+cc_southeast
+Sureste
+cc_south
+Sur
+cc_southwest
+Suroeste
+cc_west
+Oeste
+cc_northwest
+Noroeste
+cc_minute
+min
+cc_airtemp
+Temperatura del aire
+rating_class
+Clase calificacion:
+cc_wrongrating
+Calificacion incorrecta
+cc_connected
+Conectado
+cc_ejected
+Expulsado
+cc_disconnected
+Desconectado
+3d_grass
+Hierba en 3D
+direct_lean
+Inclinacion directa:
+rating_server
+R
+cc_laps
+Vueltas
+cc_unabletoidentifyuser
+No se puede identificar al usuario
+cc_bilinear
+Bilineal
+cc_trilinear
+Trilineal
+CC_SightingLap
+Vuelta de reconocimiento
+cc_prestart
+Prearranque
+cc_raceover
+Carrera Terminada
+cc_startsequence
+Secuencia de inicio
+cc_inprogress
+En Progreso
+cc_complete
+Completo
+cc_cutting
+Cortando
+cc_jumpstart
+Arranque saltado
+cc_retired
+Retirado
+cc_serverdisco
+Desconexion del Servidor
+cc_disqualified
+Desclasificado
+cc_director
+Director
+cc_timepenalty
+Penalizacion de tiempo
+angrygesture
+Gesto enojado
+GG_bikeselect
+Cambiar moto actual y configurar pinturas
+GG_viewer
+Boton izquierdo del raton: rotar/rBoton derecho del raton: pan/rBotones izquierdo y derecho del raton: alejar / acercar/rEspacio: ocultar / mostrar la interfaz
+GG_world
+Acceder a la busqueda de partidas en linea
+cc_lap
+vuelta
+cc_sharedsetup
+configuracion compartida
+Connection
+Conexion
+shifthelp
+Ayuda cambio de marcha
+starter
+Arrancar
+show_hud
+Mostrar HUD
+CC_PollEject
+Encuesta: Expulsar
+CC_PollKick
+Encuesta: Expulsar
+CC_PollStartSession
+Encuesta: Iniciar sesion
+CC_PollDisqualify
+Encuesta: Desclasificar
+CC_Yes
+Si
+CC_No
+No
+CC_PollResults
+Resultados de la encuesta
+CC_PollApproved
+Aprobado
+CC_PollRejected
+Rechazado
+hide_names
+Ocultar nombres
+track_settings
+Configuracion de pista
+max_ping
+Ping maximo:
+host_local
+Anfitrion Local
+host_world
+Anfitrion Internet
+cc_dry
+Seco
+cc_wet
+Humedo
+autoclutch
+Embrague automatico
+autotyreschange
+Cambio automatico de neumaticos
+limitedtyresets
+Conjuntos de neumaticos limitados
+tyre_sets
+Conjuntos de neumaticos:
+mapping_garage
+Mapeo:
+engine_garage
+Motor
+leanriderleft
+Inclinar al piloto a la izquierda
+leanriderright
+Inclinar al piloto a la derecha
+lowspeedback
+Empujar moto hacia atras
+lowspeedforw
+Empujar moto hacia adelante
+votehelp
+F2: Si / F4: No
+gearbox
+Caja de cambios
+pressure_tires
+Presion de neumaticos
+autoriderlrlean
+Inclinacion auto del piloto Izq/Der
+help_replay
+?
+GG_replayhelp
+Espacio: ocultar / mostrar interfaz/rTab: ocultar / mostrar clasificacion/rCtrl + Tab: ocultar / mostrar telemetria/rNumpad /: ocultar / mostrar nombres/rGirar + Rotar izquierda, derecha: girar orbita / camara libre/rDoble Girar: restablecer giro de orbita / camara libre/rDecimal: cambiar entre modos de camara libre/rNumpad 5: reproducir/rNumpad 0: pausar/rNumpad 7: rebobinar al inicio/rNumpad 1: avanzar rapidamente al final/rNumpad 9: rebobinar/rNumpad 3: avanzar rapidamente/rNumpad 4: rebobinar un fotograma/rNumpad 6: avanzar un fotograma/rNumpad 8: rebobinar camara lenta/rNumpad 2: camara lenta/rAlt derecha + Restar: camara anterior/rAlt derecha + Sumar: camara siguiente/rAlt derecha + Numpad 1 a Numpad 0: seleccionar directamente la camara de 1 a 10/rMayusculas derecha + Restar: piloto anterior en pista/rMayusculas derecha + Sumar: piloto siguiente en pista/rMayusculas derecha + Numpad 1 a Numpad 0: seleccionar directamente al piloto de 1 a 10/r1 a 4 para cambiar entre camaras / rango de pilotos de 11 a 50/r0 para volver a 1 - 10
+viewer
+Espectador
+GG_lean
+Haz clic en esta columna para asignar los controles
+TT_cutstart
+Establecer / quitar inicio de corte
+TT_cutend
+Establecer / quitar fin de corte
+TT_live
+Transmision en vivo
+TT_rewindstart
+Retroceder al inicio
+TT_ffend
+Avanzar rapidamente al final
+TT_rewind
+Retroceder. Cada vez que presionas aumenta la velocidad de retroceso
+TT_rewindslow
+Retroceso en camara lenta. Cada vez que presionas disminuye la velocidad de retroceso
+TT_rewindframe
+Retroceder un fotograma
+TT_playpause
+Reproducir / pausar
+TT_advanceframe
+Avanzar un fotograma
+TT_slowmotion
+Camara lenta. Cada vez que presionas disminuye la velocidad de avance
+TT_fastforward
+Avance rapido. Cada vez que presionas aumenta la velocidad de avance
+TT_savereplay
+Guardar repeticion. El rango se puede limitar usando los botones "Inicio de corte" y "Fin de corte"
+TT_browser
+D = servidor dedicado/rP = protegido con contrasena/rComp = competidores/rCat = categoria/rH = modo hardcore. A: sin ayudas; C: forzar vista interior; T: conjuntos de neumaticos limitados; +: todo/rW = clima. Ninguno: realista; S: soleado; C: nublado; R: lluvioso/rR = clasificacion
+TT_smooth
+Suaviza la entrada agregando un retraso./rEs util para entradas digitales y para gamepads
+TT_linearity
+100 significa lineal, directo, control./rMover este control deslizante hacia no lineal proporciona mas precision en la primera parte de la entrada, a expensas de la segunda parte./rEs util para entradas digitales y gamepads
+TT_deadzone
+La zona muerta filtra movimientos no deseados en la primera parte de la entrada./rEs util para entradas analogicas.
+uk_units
+Reino Unido
+nickname_title
+Apodo
+reverse_ff
+Invertir
+guid
+GUID:
+trainer
+Entrenador
+enable_trainer
+Habilitar
+add_trainer
+Anadir
+save_trainer
+Guardar
+remove_trainer
+Eliminar
+face_tracking
+Seguimiento facial
+cc_notwhitelisted
+No en lista blanca
+trainer_overwrite
+Sobrescribir entrenador?
+cc_blacklisted
+En lista negra
+CC_PollInProgress
+Hay una encuesta en progreso
+CC_PollWait
+Espera antes de iniciar una nueva encuesta
+CC_PollsDisabled
+Las encuestas estan deshabilitadas
+oil_garage
+Aceite:
+CC_MaxPingWarning
+Advertencia de ping maximo
+helmet
+Casco:
+helmet_paint
+Pintura del casco:
+save_replay
+Guardar repeticion
+export_results
+Exportar resultados
+setup_notes
+Notas de configuracion
+save_setup
+Guardar configuracion
+shared_setups
+Compartido
+export_setup
+Exportar configuracion
+setup_shared
+Configuracion
+sender
+Remitente
+shared_setups_title
+Configuraciones compartidas
+copy_from
+Copiar desde
+track_copyfrom
+Pista
+setup_copyfrom
+Configuracion
+preload_gearbox
+Precarga
+shiftuppreload
+Precarga cambio arriba
+shiftdownpreload
+Precarga cambio abajo
+trainer_save
+Guardar entrenador
+trainer_add
+Agregar entrenador
+front_leverage
+Palanca delantera:
+front_disc
+Disco delantero:
+rear_mastercylinder
+Cilindro maestro trasero:
+rear_disc
+Disco trasero:
+input3_tab
+Entrada 3
+ReplayMoveLeft
+Mover izquierda
+ReplayMoveRight
+Mover derecha
+ReplayMoveForward
+Mover adelante
+ReplayMoveBackward
+Mover atras
+ReplayMoveUp
+Subir
+ReplayMoveDown
+Bajar
+ReplayRotLeft
+Rotar izquierda
+ReplayRotRight
+Rotar derecha
+ReplayRotUp
+Rotar arriba
+ReplayRotDown
+Rotar abajo
+camera_controls
+Camara de repeticion
+ReplayRoll
+Rodar
+ReplayFovOpen
+Abrir campo de vision
+ReplayFovClose
+Cerrar campo de vision
+ReplaySpeedInc
+Aumentar vel. de reproduccion
+ReplaySpeedDec
+Disminuir vel. de reproduccion
+gestures
+Gestos
+front_sag
+Sag delantero:
+race_sag
+Sag de carrera
+static_sag
+Sag estatico
+test_garage
+Prueba
+info
+Informacion
+rear_sag
+Sag trasero:
+rider_gear
+Equipo del piloto:
+category_title
+Categoria
+rider_name
+Nombre del piloto:
+rider_font
+Num. del piloto:
+boots_paint
+Pintura botas:
+gloves_paint
+Pintura guantes:
+protection
+Proteccion:
+bikeinfo_title
+Info de la moto
+gain
+Ganancia:
+Displacement_info
+Desplazamiento:
+gears_info
+Marchas:
+engine_info
+Motor:
+maxpower_info
+Potencia maxima:
+weight_info
+Peso:
+select_gate
+Seleccionar puerta
+gateselection_tittle
+Seleccion de puerta
+race2_length
+Longitud de carrera 2:
+sightinglap_info
+Vuelta de reconocimiento:
+prequalify_length
+Longitud de preclasificacion:
+race1_length
+Longitud de carrera 1:
+help_track
+Ayuda:
+password_title
+Contrasena
+server
+Servidor:
+laps_race
+Vueltas
+looktoapex
+Mirar al vertice
+leanheading
+Incli. cabeza
+photo
+Foto
+ideal_lap_time
+Tiempo de vuelta ideal:
+cc_ideallaptime
+Tiempo de vuelta ideal
+ideal_time
+Tiempo ideal
+best_time
+Mejor tiempo
+bike_font
+Num. de la moto:
+dab
+Dab
+cc_autocamset
+Automatico
+cc_orbitcam
+Órbita
+cc_freecam
+Camara Libre
+cc_freeroamcam
+Camara libre
+autoriderdab
+Dab auto del piloto
+GG_photo
+Boton izquierdo del raton: rotar/rBoton derecho del raton: pan/rBotones izquierdo y derecho del raton: alejar / acercar/rEspacio: ocultar / mostrar interfaz
+GG_calibrationinfo
+Mueve todos los ejes analogicos de todos los controladores a su maxima extension/rLuego dejalos en posicion neutral y presiona OK
+joystick
+Joystick
+axle_calibration
+Eje
+controller_calibration
+Controlador:
+value_calibration
+Valor
+min_calibration
+Minimo
+max_calibration
+Maximo
+lean_help
+Ayuda de inclinacion
+reset_track
+Restablecer pista
+disable_collisions
+Desactivar colisiones
+collisions
+Colisiones
+collisions_disabled
+Colisiones desactivadas:
+fork_offset
+Desplaza. de la horquilla:
+clean_bike
+Limpiar
+controller_profile
+Perfil controlador:
+cc_custom
+Personalizado
+compare_setup
+Comparar:
+vsync
+VSync
+trackmarker
+Marcador de pista
+cc_trackmarkerset
+Configuracion de marcadores de pista
+show_rider_stand
+Mostrar puesto del piloto
+trackir
+Seguimiento de cabeza
+info_server
+Informacion
+server_info
+Info del servidor
+system
+Sistema
+vr_reset
+Restablecer VR
+tip_1
+Manten presionado el control "Restablecer" durante 3 segundos para restablecer la moto en la pista
+tip_2
+Manten presionado el control "Marcador de pista" durante un segundo para establecerlo, toca el control para restablecer la moto a el.
+tip_3
+Las teclas del 1 al 0 estan asignadas a los mensajes de autochat.
+tip_4
+La tecla F5 muestra / oculta el historial de chat en la pista.
+tip_5
+Shift + C alterna entre los ajustes de posicion de la vista en la vista a bordo. Usa las teclas de flecha arriba y abajo para mover la vista; las teclas izquierda y derecha presionadas juntas para restablecerla.
+boots
+Botas:
+goggles_paint
+Pintura gafas:
+open_practice
+Practica abierta
+open_practice_title
+Practica abierta
+autoridersit
+Sentar al piloto auto
+lead_trainer
+Lider:
+cc_sec
+seg
+helmet_cam
+Camara del casco:
+combined_brakes
+Frenos combinados
+rider_tracking
+Seguir incli. del piloto:
+slowbump_garage
+Compresion lenta:
+fastbump_garage
+Compresion rapida:
+cc_click
+clic
+cc_clicks
+clics
+cc_turn
+girar
+cc_turns
+vueltas
+min_combinedbrakes
+Min:
+max_combinedbrakes
+Max:
+cc_fuel
+Combustible:
+cc_battery
+Bateria:
+spectate
+Espectar
+cc_spectating
+espectando
+cc_joined
+unido
+cc_resettracknotclear
+Pista no despejada
+cc_resetbikenotstopped
+Moto no detenida
+straight_rhythm_title
+Ritmo Recto
+cc_bikemismatch
+Incompatibilidad de moto
+cc_missingbike
+Moto ausente
+data_mismatch
+Incompatibilidad de datos
+GG_reset
+Manten presionado el control "Restablecer" durante/r3 segundos para restablecer la moto en la pista
+CC_RunOver
+Atropellado
+run_time
+Tiempo de carrera
+ideal_run_time
+Tiempo de carrera Ideal:
+TT_forkbump
+Afecta la rapidez con que la horquilla se comprime. Mas clics = mas suave (mas rapido)
+TT_forkrebound
+Afecta la rapidez con que la horquilla se extiende. Mas clics = mas suave (mas rapido)
+TT_preload
+Aumenta la precarga para endurecer la suspension y reducir la sag
+TT_shockbump
+Afecta la rapidez con que la suspension se comprime. Mas clics = mas suave (mas rapido)
+TT_shockrebound
+Afecta la rapidez con que la suspension se extiende. Mas clics = mas suave (mas rapido)
+TT_shockfastbump
+Afecta la rapidez con que la suspension se comprime en aterrizajes fuertes. Mas vueltas = mas suave (mas rapido)
+TT_forkoil
+Reducir la medicion del aceite de la horquilla aumenta la rigidez del resorte en la ultima parte del recorrido de la horquilla
+missing_track
+Pista ausente
+CC_runs
+Carreras
+CC_races
+Carreras
+practice_max_runs
+Max. de carreras de practica:
+straight_rhythm_testing_title
+Prueba de ritmo recto
+CC_LaneCrossing
+Cruce de carril
+vs
+vs.
+CC_Round
+Ronda
+CC_QuarterFinals
+Cuartos de final
+CC_SemiFinals
+Semi-finales
+CC_Final
+Final
+CC_Run
+Carrera
+run_stand
+Carrera
+straight_rhythm
+Ritmo Recto
+CC_ResetTrack
+Restablecer pista
+CC_PollSpectators
+Los espectadores no pueden iniciar este tipo de encuesta
+CC_PollRaces
+Las encuestas estan desactivadas durante las carreras
+rumble
+Vibracion
+lock_view
+Bloquear a la moto
+local
+Local
+TT_ridertracking
+Vincula la inclinacion del piloto a la posicion de seguimiento de la vista (VR, TrackIR, ...)/¡Advertencia! Desactiva el control manual de la inclinacion del piloto
+holeshot
+Salida:
+instant_replay
+Repeticion instantanea
+cc_racelength_percentage
+Porcentaje
+cc_racelength_time
+Tiempo
+cc_racelength_laps
+Vueltas
+rodlength_garage
+Longitud de la barra:
+fork_height
+Altura de la horquilla:
+protection_paint
+Pintura proteccion:
+qualify_practice
+Practica de clasificacion
+qualifypractice_length
+Duracion de la practica de clasificacion:
+TT_forkoffset
+Compensacion de las abrazaderas triples/rUn valor mas alto hace que la moto sea mas agil, uno mas bajo la hace mas estable
+jump_tosession
+Ir a sesion:
+jump_toround
+Ir a Ronda:
+jump_torun
+Ir a carrera:
+trick
+Truco
+cc_qualifypractice
+Practica de clasificacion
+CC_lastlap
+Ultima vuelta
+CC_finish
+Terminar
+jump_tolap
+Ir a vuelta:
+jump_tocontact
+Ir a Contacto:
+missing_bikes
+Motos ausentes
+filter_empty_servers
+Ocultar vacios
+filter_servers_missingcontent
+Ocultar contenido faltante
+CC_SyncTrackData
+Datos de pista
+CC_SyncDynamicTrackSurfaceData
+Datos dinamicos de superficie de pista
+CC_SyncTerrainDeformationData
+Datos de deformacion del terreno
+CC_SyncRaceData
+Datos de carrera
+CC_SyncInit
+Inicializacion
+CC_SyncBikeData
+Datos de motos
+CC_SyncTyreData
+Datos de Neumaticos
+CC_SyncCachingBike
+Cache de motos:
+CC_SyncCachingTempBike
+Cache de motos temporal:
+CC_SyncCachingRider
+Cache de pilotos
+CC_SyncCachingBoots
+Cache de Botas:
+CC_SyncCachingHelmet
+Cache de cascos:
+CC_SyncCachingStand
+Cache de soporte
+CC_SyncTrackGraphics
+Graficos de pistas
+CC_SyncMisc
+Varios
+CC_SyncBikeGraphics
+Graficos de motos
+CC_SyncClientConnection
+Conexion del cliente
+CC_SyncClientData
+Datos del cliente
+CC_SyncClientSpectatorJoin
+Unirse espectador del cliente
+CC_SyncClientEjected
+Expulsion del cliente
+CC_SyncClientDisconnected
+Desconexion del cliente
+CC_SyncData
+Datos
+CC_SyncCommunication
+Comunicacion
+TT_guidcopy
+Copiar GUID al portapapeles
+pit_environment_sounds
+Sonidos ambientales de boxes
+filter_name
+Filtrar nombre:
+cc_disabled
+Desactivado
+cc_full
+Completo
+cc_fblean
+Inclinacion F/B
+cc_lrlean
+Inclinacion L/R
+cc_trackmismatch
+Incompatibilidad de pista
+flags
+Banderas:
+cc_both
+Ambos
+pits
+Boxes:
+CC_banadmin
+Por Administrador
+CC_banpoll
+Por Encuesta
+CC_banping
+Ping Muy Alto
+track_screens
+Pantallas de pista
+externalview
+Vista Externa
+dynamic_view
+Vista dinamica
+remotebikes_volume
+Vol. motos jugadores:
+follow_bike
+Seguir moto
+terrain_detail
+Detalle del terreno:
+distance_extview
+Distancia:
+lateral_offset
+Desplaza. lateral:
+brakes_volume
+Vol. de Frenos:
+height
+Altura:
+cc_tyresmismatch
+Incompatibilidad de neumaticos
+cc_ridermismatch
+Incompatibilidad de piloto
+corrupted_paints
+Pinturas corruptas
+error_sign
+!
+reset_delay
+Retraso de restablecimiento:
+deformation_terrain
+Deform. terreno:
+cc_none
+Ninguno
+cc_fixed
+Fijo
+cc_distance
+Distancia
+cc_crashspeed
+Vel. de choque
+ui_back
+Volver en la IU
+ui_hide
+Ocultar / Mostrar IU
+ui_enter
+Entrar en la IU
+kick
+Expulsar
