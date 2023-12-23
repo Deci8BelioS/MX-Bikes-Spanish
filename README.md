@@ -1,8 +1,8 @@
 ## Instalación
 
-* Crear una carpeta en la raiz de MX Bikes llamada "ui" (sin comillas"
+* [Descargamos la ultima versión de la traducción disponible haciendo clic en este texto](https://github.com/Deci8BelioS/MX-Bikes-Spanish/releases)
+* Abrimos el archivo .zip y arrastramos la carpeta **ui** a la raiz de la carpeta MX Bikes
 ![carpeta][3]
-* Meter el archivo "spanish.str" en la carpeta "ui" que hicimos antes
 * ¡Jugar!
 
 ## Errores ortograficos
