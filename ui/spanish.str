@@ -259,7 +259,7 @@ Continuar
 Audio
 Audio
 detaillevels
-Nivel de Detalle
+Nivel de detalle
 returntopit
 Volver a boxer
 quickrace
@@ -267,7 +267,7 @@ Carrera rapida
 raceweekend
 Carrera
 hardcoretext
-Modo Hardcore
+Modo hardcore
 settings_race
 Configuracion
 ui_volume
@@ -463,9 +463,9 @@ Inclinacion:
 admin
 Administrador
 others_garage
-Otros garajes
+Otros ajustes
 brakes_garage
-Taller de frenos
+Ajustes de frenos
 geom_garage
 Geometria
 rakeangle_garage
@@ -989,7 +989,7 @@ Dab
 cc_autocamset
 Automatico
 cc_orbitcam
-Órbita
+Orbital
 cc_freecam
 Camara Libre
 cc_freeroamcam
