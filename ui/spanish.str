@@ -253,7 +253,7 @@ Guardar config predeterminada?
 setup_save
 Guardar cambios?
 setup_delete
-Eliminar configuracion?
+Eliminar config?
 continue
 Continuar
 Audio
@@ -679,7 +679,7 @@ Acceder a la busqueda de partidas en linea
 cc_lap
 vuelta
 cc_sharedsetup
-configuracion compartida
+config compartida
 Connection
 Conexion
 shifthelp
@@ -709,7 +709,7 @@ Rechazado
 hide_names
 Ocultar nombres
 track_settings
-Configuracion de pista
+Config de pista
 max_ping
 Ping maximo:
 host_local
@@ -799,7 +799,7 @@ Invertir
 guid
 GUID:
 trainer
-Entrenador
+Fantasma
 enable_trainer
 Habilitar
 add_trainer
@@ -813,7 +813,7 @@ Seguimiento facial
 cc_notwhitelisted
 No en lista blanca
 trainer_overwrite
-Sobrescribir entrenador?
+Sobrescribir fantasma?
 cc_blacklisted
 En lista negra
 CC_PollInProgress
@@ -835,13 +835,13 @@ Guardar repeticion
 export_results
 Exportar resultados
 setup_notes
-Notas de configuracion
+Notas de config
 save_setup
-Guardar configuracion
+Guardar config
 shared_setups
 Compartido
 export_setup
-Exportar configuracion
+Exportar config
 setup_shared
 Configuracion
 sender
@@ -861,9 +861,9 @@ Precarga cambio arriba
 shiftdownpreload
 Precarga cambio abajo
 trainer_save
-Guardar entrenador
+Guardar fantasma
 trainer_add
-Agregar entrenador
+Agregar fantasma
 front_leverage
 Palanca delantera:
 front_disc
