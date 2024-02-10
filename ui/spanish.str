@@ -19,7 +19,7 @@ Perfiles
 Bestlaps
 Mejores vueltas
 Viewreplays
-Reproducciones
+Repeticiones
 yes
 Si
 no
@@ -101,7 +101,7 @@ Ventana
 close
 Cerrar
 cc_timeout
-Tiempo de conexion
+Tiempo de espera de conexion agotado
 cc_wrongpassword
 Contrasena incorrecta
 cc_serverfull
@@ -689,9 +689,9 @@ Arrancar
 show_hud
 Mostrar HUD
 CC_PollEject
-Encuesta: Expulsar
+Encuesta: Expulsion
 CC_PollKick
-Encuesta: Expulsar
+Encuesta: Patear
 CC_PollStartSession
 Encuesta: Iniciar sesion
 CC_PollDisqualify
@@ -1117,7 +1117,7 @@ Incompatibilidad de moto
 cc_missingbike
 Moto ausente
 data_mismatch
-Incompatibilidad de datos
+Mods faltantes
 GG_reset
 Manten presionado el control "Restablecer" durante/r3 segundos para restablecer la moto en la pista
 CC_RunOver
@@ -1349,4 +1349,4 @@ Ocultar / Mostrar IU
 ui_enter
 Entrar en la IU
 kick
-Expulsar
+Kickear
