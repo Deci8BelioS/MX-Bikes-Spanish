@@ -410,7 +410,7 @@ fronttyre_garage
 Delantera:
 reartyre_garage
 Trasera:
-bump_garage
+compression_garage
 Compresion:
 rebound_garage
 Extension:
@@ -872,6 +872,8 @@ rear_mastercylinder
 Cilindro maestro trasero:
 rear_disc
 Disco trasero:
+riding_style
+Estilo conduccion:
 input3_tab
 Entrada 3
 ReplayMoveLeft
@@ -1080,10 +1082,10 @@ combined_brakes
 Frenos combinados
 rider_tracking
 Seguir incli. del piloto:
-slowbump_garage
-Compresion lenta:
-fastbump_garage
-Compresion rapida:
+slowcompression_garage
+Compresion baja velocidad:
+fastcompression_garage
+Compresion alta velocidad:
 cc_click
 clic
 cc_clicks
@@ -1248,6 +1250,8 @@ CC_SyncCachingTempBike
 Cache de motos temporal:
 CC_SyncCachingRider
 Cache de pilotos
+CC_SyncCachingAnimation
+Estilo conduccion en carretera:
 CC_SyncCachingBoots
 Cache de Botas:
 CC_SyncCachingHelmet
@@ -1358,3 +1362,33 @@ polls_disabled
 Encuestas desactivadas
 chat_disabled
 Chat desactivado
+CC_limitedtyresets
+Limitado
+CC_freetyresets
+Libre
+error
+Error
+cc_tracknotallowed
+No se permite el acceso a la pista
+cc_dropped
+Caído
+cc_cancelled
+Cancelado
+tyres_selection
+Neumaticos:
+CC_SyncCachingBikePhysics
+Alma. cache fisica moto
+CC_SyncCachingClassPhysics
+Fisica de clases de cache:
+CC_SyncCachingTyres
+Alma. cache neumaticos:
+cc_missingtyres
+Faltan neumaticos
+cc_classmismatch
+Incompatibilidad de clases
+cc_missingclass
+Falta clase
+class
+Clase:
+overjump_crash
+Accidente por salto excesivo
